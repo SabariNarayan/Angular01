@@ -1,0 +1,16 @@
+
+.navbar-brand{
+    padding-left: 40px;
+    font-weight: 500;
+}
+#emp {
+    margin-right: 1195px;
+}
+.row{
+    margin-top: 90px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.card{
+        background-color: rgba(179, 224, 240, 0.8);      
+}
